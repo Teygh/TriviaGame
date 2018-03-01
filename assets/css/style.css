@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(../images/mark-thompson-546072-unsplash.jpg);
+    width: 100%;
+    background-size: 100% 100%;
+    background-size: cover;
+    
+}
+
+.card-title{
+    font-family: 'EB Garamond', serif;
+}
+
+.card{
+    width: 700px;
+    margin: 3% auto;
+
+    
+}
+
+
+.card-body{
+    font-family: 'EB Garamond', serif;
+    height: 100%;
+    position: relative;    
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+#text{
+    margin-top:30px;
+
+}
+
+#countdownClock{
+    font-size: 2rem;
+    color: white;
+    background-color: black;
+    border: solid 1px white;   
+
+}
+
+input[type="radio"]{
+    margin: 0 15px 0 10px;
+  }
+
